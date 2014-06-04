@@ -1,6 +1,6 @@
 {
   "name": "jsonpp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A command to pretty print json from a pipe or file",
   "license": "MIT",
   "author": "@jakl",
@@ -8,7 +8,7 @@
   "bin": "./jsonpp.js",
   "homepage": "https://github.com/jakl/jsonpp",
   "bugs": "https://github.com/jakl/jsonpp/issues",
-  "keywords": [ "review board", "code review"],
+  "keywords": [ "json", "pretty print"],
   "repository": {
       "type": "git",
       "url": "http://github.com/jakl/jsonpp.git"
