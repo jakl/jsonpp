@@ -8,12 +8,12 @@
   "bin": "./jsonpp.js",
   "homepage": "https://github.com/jakl/jsonpp",
   "bugs": "https://github.com/jakl/jsonpp/issues",
-  "keywords": [ "json", "pretty print"],
+  "keywords": ["json", "pretty print"],
   "repository": {
-      "type": "git",
-      "url": "http://github.com/jakl/jsonpp.git"
+    "type": "git",
+    "url": "http://github.com/jakl/jsonpp.git"
   },
   "dependencies": {
-    "argf": ""
+    "argf": "0.0.1"
   }
 }
